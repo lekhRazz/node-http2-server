@@ -1,0 +1,11 @@
+yarn-error.log
+package-lock.json
+node_modules/
+src/.env
+
+localhost-privkey.pem
+localhost-cert.pem
+
+.env
+
+.vscode/*
