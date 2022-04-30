@@ -9,3 +9,5 @@ localhost-cert.pem
 .env
 
 .vscode/*
+
+.git/*
